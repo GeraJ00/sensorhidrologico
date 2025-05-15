@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'screens/home_screen.dart';
 import 'screens/registros_screen.dart';
 
+
 void main() {
   runApp(HiTempApp()); // Punto de entrada de la aplicación
 }
